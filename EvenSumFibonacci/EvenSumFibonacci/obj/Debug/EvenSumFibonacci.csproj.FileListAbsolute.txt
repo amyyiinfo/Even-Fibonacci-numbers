@@ -1,0 +1,6 @@
+c:\users\amy\documents\visual studio 2013\Projects\EvenSumFibonacci\EvenSumFibonacci\bin\Debug\EvenSumFibonacci.exe.config
+c:\users\amy\documents\visual studio 2013\Projects\EvenSumFibonacci\EvenSumFibonacci\bin\Debug\EvenSumFibonacci.exe
+c:\users\amy\documents\visual studio 2013\Projects\EvenSumFibonacci\EvenSumFibonacci\bin\Debug\EvenSumFibonacci.pdb
+c:\users\amy\documents\visual studio 2013\Projects\EvenSumFibonacci\EvenSumFibonacci\obj\Debug\EvenSumFibonacci.csprojResolveAssemblyReference.cache
+c:\users\amy\documents\visual studio 2013\Projects\EvenSumFibonacci\EvenSumFibonacci\obj\Debug\EvenSumFibonacci.exe
+c:\users\amy\documents\visual studio 2013\Projects\EvenSumFibonacci\EvenSumFibonacci\obj\Debug\EvenSumFibonacci.pdb
